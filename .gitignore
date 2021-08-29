@@ -17,3 +17,4 @@ Pipfile.lock
 env3.*
 env
 docs_build
+*db
